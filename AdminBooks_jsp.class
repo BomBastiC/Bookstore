@@ -11,7 +11,6 @@ DBpassword	sFileName"AdminBooks.jsp_jspx_includesLjava/util/Vector;<in
 	HttpServletResponse cannot be resolved to a type
 	ServletException cannot be resolved to a type
 	JspFactory cannot be resolved to a type
-	javax.servlet cannot be resolved to a type
 	HttpSession cannot be resolved to a type
 	ServletContext cannot be resolved to a type
 	ServletConfig cannot be resolved to a type
